@@ -1,0 +1,98 @@
+<svg fill="none" viewBox="0 0 800 240" width="100%" height="100%" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <!-- Import Google Fonts directly into SVG -->
+    <style type="text/css">
+      @import url('https://fonts.googleapis.com/css2?family=Geist:wght@400;700;800&amp;family=JetBrains+Mono:wght@400;500&amp;family=Inter:wght@400;600&amp;display=swap');
+
+      .title {
+        font-family: 'Geist', 'Inter', -apple-system, sans-serif;
+        font-weight: 800;
+        font-size: 42px;
+        fill: #ffffff;
+      }
+
+      .subtitle {
+        font-family: 'Inter', -apple-system, sans-serif;
+        font-size: 15px;
+        fill: #cfc2d6;
+        font-weight: 400;
+      }
+
+      .terminal-text {
+        font-family: 'JetBrains Mono', monospace;
+        font-size: 13px;
+        fill: #44e2cd;
+        font-weight: 500;
+      }
+
+      .badge-text {
+        font-family: 'Geist', 'Inter', sans-serif;
+        font-weight: 700;
+        font-size: 10px;
+        fill: #ddb7ff;
+        letter-spacing: 0.12em;
+      }
+
+      .code-bg {
+        font-family: 'JetBrains Mono', monospace;
+        font-size: 11px;
+        fill: #ddb7ff;
+      }
+    </style>
+
+    <!-- Background Radial Gradients (Purple/Teal Lumina Glows) -->
+    <radialGradient id="glow-purple" cx="10%" cy="10%" r="60%">
+      <stop offset="0%" stop-color="#ddb7ff" stop-opacity="0.18" />
+      <stop offset="100%" stop-color="#0b1326" stop-opacity="0" />
+    </radialGradient>
+    <radialGradient id="glow-teal" cx="90%" cy="90%" r="70%">
+      <stop offset="0%" stop-color="#44e2cd" stop-opacity="0.12" />
+      <stop offset="100%" stop-color="#0b1326" stop-opacity="0" />
+    </radialGradient>
+    <linearGradient id="text-grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ddb7ff" />
+      <stop offset="100%" stop-color="#c0c1ff" />
+    </linearGradient>
+  </defs>
+
+  <!-- Base Lumina-dark container -->
+  <rect width="800" height="240" rx="16" fill="#0b1326" stroke="#4d4354" stroke-opacity="0.25" stroke-width="1.5" />
+  <rect width="800" height="240" rx="16" fill="url(#glow-purple)" />
+  <rect width="800" height="240" rx="16" fill="url(#glow-teal)" />
+
+  <!-- Code background watermark (AEM adaptation model) -->
+  <g opacity="0.04" transform="translate(470, 25)">
+    <text class="code-bg" xml:space="preserve">
+      <tspan x="0" y="20">package com.suyog.aem.core.models;</tspan>
+      <tspan x="0" y="40">import org.apache.sling.api.resource.Resource;</tspan>
+      <tspan x="0" y="65">@Model(adaptables = Resource.class)</tspan>
+      <tspan x="0" y="85">public class LuminaCode {</tspan>
+      <tspan x="20" y="105">@Inject</tspan>
+      <tspan x="20" y="125">private String primaryGlow;</tspan>
+      <tspan x="20" y="145">public String getTheme() {</tspan>
+      <tspan x="40" y="165">return "lumina-dark-mode";</tspan>
+      <tspan x="20" y="185">}</tspan>
+      <tspan x="0" y="205">}</tspan>
+    </text>
+  </g>
+
+  <!-- Title & Description -->
+  <g transform="translate(45, 55)">
+    <!-- Glassmorphic Status Pill -->
+    <rect width="180" height="24" rx="12" fill="#ddb7ff" fill-opacity="0.08" stroke="#ddb7ff" stroke-opacity="0.25"
+      stroke-width="1" />
+    <circle cx="16" cy="12" r="4.5" fill="#44e2cd" />
+    <text x="30" y="15.5" class="badge-text">SENIOR AEM ARCHITECT</text>
+
+    <!-- Main Greeting -->
+    <text x="0" y="65" class="title">Hi, I'm <tspan fill="url(#text-grad)">Suyog</tspan></text>
+
+    <!-- Subtitle -->
+    <text x="0" y="96" class="subtitle">Architecting high-performance enterprise CMS &amp; modern frontends.</text>
+
+    <!-- Terminal Simulation Line -->
+    <text x="0" y="132" class="terminal-text">~/suyog-dev $ npx run-build --theme=lumina-code --performance=100%</text>
+  </g>
+
+  <line x1="0" y1="239" x2="800" y2="239" stroke="#4d4354" stroke-opacity="0.2" stroke-width="1.5" />
+</svg>
