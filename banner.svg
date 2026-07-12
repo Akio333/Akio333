@@ -79,10 +79,10 @@
   <!-- Title & Description -->
   <g transform="translate(45, 55)">
     <!-- Glassmorphic Status Pill -->
-    <rect width="180" height="24" rx="12" fill="#ddb7ff" fill-opacity="0.08" stroke="#ddb7ff" stroke-opacity="0.25"
+    <rect width="214" height="24" rx="12" fill="#ddb7ff" fill-opacity="0.08" stroke="#ddb7ff" stroke-opacity="0.25"
       stroke-width="1" />
     <circle cx="16" cy="12" r="4.5" fill="#44e2cd" />
-    <text x="30" y="15.5" class="badge-text">SENIOR AEM ARCHITECT</text>
+    <text x="30" y="15.5" class="badge-text">SENIOR AEM DEVELOPER</text>
 
     <!-- Main Greeting -->
     <text x="0" y="65" class="title">Hi, I'm <tspan fill="url(#text-grad)">Suyog</tspan></text>

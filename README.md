@@ -1,6 +1,6 @@
 <!-- Lumina Code Profile Header -->
 <div align="center">
-  <img src="./banner.svg" width="800" alt="Suyog's AEM Architecture Profile Header" />
+  <img src="./banner.svg" width="800" alt="Suyog's Senior AEM Developer Profile Header" />
   
   <p align="center">
     <a href="https://www.linkedin.com/in/akio333/">
@@ -20,7 +20,7 @@
 
 ### 🔮 Enterprise Execution, Technical Precision.
 
-I am an **AEM Full-Stack Architect & Developer** specialized in designing high-conversion, compliant, and decoupled content management solutions for financial leaders and global brands. I bridge the gap between heavy enterprise Java backends and sleek, accessible web applications. Explore my full work and projects at [shipsolo.xyz](https://www.shipsolo.xyz).
+I am a **Senior AEM Developer** specializing in high-conversion, compliant, and decoupled content management solutions for financial leaders and global brands. I connect enterprise Java backends with sleek, accessible web applications. Explore my work and projects at [shipsolo.xyz](https://www.shipsolo.xyz).
 
 - **Platform Mastery**: AEM Cloud Service, AEM 6.5, OSGi modules, dispatcher configurations, and CloudFront CDN.
 - **Modern Frontend**: Component-driven design utilizing React, custom Web Components, Tailwind CSS, and strict TypeScript pipelines.
@@ -28,16 +28,63 @@ I am an **AEM Full-Stack Architect & Developer** specialized in designing high-c
 
 ---
 
-### 🛠️ Technological Armament
+### 🛠️ Technical Toolkit
 
-A highly tailored, modern technology stack mapped to the "Lumina Code" design system:
+A focused technology stack for building and operating dependable AEM experiences:
 
-| Layer                   | Technologies                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
-| :---------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **AEM Core & CMS**      | ![AEM Cloud](https://img.shields.io/badge/AEM_Cloud%20/%206.5-ddb7ff?style=flat-square&logo=adobe&logoColor=0b1326&labelColor=0b1326) ![OSGi](https://img.shields.io/badge/OSGi-44e2cd?style=flat-square&logo=eclipseide&logoColor=0b1326&labelColor=0b1326) ![Sling Models](https://img.shields.io/badge/Sling%20Models-c0c1ff?style=flat-square&logo=apache&logoColor=0b1326&labelColor=0b1326) ![HTL/Sightly](https://img.shields.io/badge/HTL%20/%20Sightly-ddb7ff?style=flat-square&logo=codeforces&logoColor=0b1326&labelColor=0b1326)     |
-| **Backend & APIs**      | ![Java](https://img.shields.io/badge/Java-44e2cd?style=flat-square&logo=oracle&logoColor=0b1326&labelColor=0b1326) ![AEM GraphQL](https://img.shields.io/badge/AEM%20GraphQL-c0c1ff?style=flat-square&logo=graphql&logoColor=0b1326&labelColor=0b1326) ![Node.js](https://img.shields.io/badge/Node.js-ddb7ff?style=flat-square&logo=nodedotjs&logoColor=0b1326&labelColor=0b1326) ![Rest API](https://img.shields.io/badge/Rest%20API-44e2cd?style=flat-square&logo=postman&logoColor=0b1326&labelColor=0b1326)                                 |
-| **Frontend Frameworks** | ![React](https://img.shields.io/badge/React-c0c1ff?style=flat-square&logo=react&logoColor=0b1326&labelColor=0b1326) ![TypeScript](https://img.shields.io/badge/TypeScript-ddb7ff?style=flat-square&logo=typescript&logoColor=0b1326&labelColor=0b1326) ![Web Components](https://img.shields.io/badge/Web%20Components-44e2cd?style=flat-square&logo=webcomponents&logoColor=0b1326&labelColor=0b1326) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-c0c1ff?style=flat-square&logo=tailwindcss&logoColor=0b1326&labelColor=0b1326) |
-| **Testing & CDN**       | ![Percy Regression](https://img.shields.io/badge/Percy%20Visual-ddb7ff?style=flat-square&logo=percy&logoColor=0b1326&labelColor=0b1326) ![AWS CloudFront](https://img.shields.io/badge/AWS%20CloudFront-44e2cd?style=flat-square&logo=amazonwebservices&logoColor=0b1326&labelColor=0b1326) ![WCAG 2.4.3](https://img.shields.io/badge/WCAG%202.4.3-c0c1ff?style=flat-square&logo=w3c&logoColor=0b1326&labelColor=0b1326)                                                                                                                        |
+<table>
+  <thead>
+    <tr>
+      <th align="left">Area</th>
+      <th align="left">Technologies</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>🧩 AEM &amp; CMS</strong></td>
+      <td>
+        <img src="https://img.shields.io/badge/%20-0b1326?style=for-the-badge&amp;logo=adobe&amp;logoColor=ddb7ff" height="34" alt="AEM Cloud Service and HTL" title="AEM Cloud Service &amp; HTL" />
+        <img src="https://img.shields.io/badge/%20-0b1326?style=for-the-badge&amp;logo=eclipseide&amp;logoColor=44e2cd" height="34" alt="OSGi" title="OSGi" />
+        <img src="https://img.shields.io/badge/%20-0b1326?style=for-the-badge&amp;logo=apache&amp;logoColor=c0c1ff" height="34" alt="Sling Models" title="Sling Models" />
+        <img src="https://img.shields.io/badge/%20-0b1326?style=for-the-badge&amp;logo=strapi&amp;logoColor=8e75ff" height="34" alt="Strapi" title="Strapi" />
+      </td>
+    </tr>
+    <tr>
+      <td><strong>⚙️ Backend &amp; APIs</strong></td>
+      <td>
+        <img src="https://img.shields.io/badge/%20-0b1326?style=for-the-badge&amp;logo=openjdk&amp;logoColor=44e2cd" height="34" alt="Java" title="Java" />
+        <img src="https://img.shields.io/badge/%20-0b1326?style=for-the-badge&amp;logo=graphql&amp;logoColor=ddb7ff" height="34" alt="AEM GraphQL" title="AEM GraphQL" />
+        <img src="https://img.shields.io/badge/%20-0b1326?style=for-the-badge&amp;logo=nodedotjs&amp;logoColor=84cc16" height="34" alt="Node.js" title="Node.js" />
+        <img src="https://img.shields.io/badge/%20-0b1326?style=for-the-badge&amp;logo=postman&amp;logoColor=ff6c37" height="34" alt="REST APIs" title="REST APIs" />
+      </td>
+    </tr>
+    <tr>
+      <td><strong>🎨 Frontend</strong></td>
+      <td>
+        <img src="https://skillicons.dev/icons?i=react,ts,tailwind,bootstrap,jquery,materialui,html,css,angular,astro&amp;theme=dark" height="38" alt="React, TypeScript, Tailwind CSS, Bootstrap, jQuery, Material UI, HTML5, CSS3, Angular, and Astro" title="React · TypeScript · Tailwind CSS · Bootstrap · jQuery · Material UI · HTML5 · CSS3 · Angular · Astro" />
+      </td>
+    </tr>
+    <tr>
+      <td><strong>☁️ Cloud, AI &amp; Quality</strong></td>
+      <td>
+        <img src="https://skillicons.dev/icons?i=aws&amp;theme=dark" height="38" alt="Amazon Web Services and CloudFront" title="AWS &amp; CloudFront" />
+        <img src="https://img.shields.io/badge/%20-0b1326?style=for-the-badge&amp;logo=vercel&amp;logoColor=ffffff" height="34" alt="Vercel" title="Vercel" />
+        <img src="https://img.shields.io/badge/%20-0b1326?style=for-the-badge&amp;logo=openai&amp;logoColor=44e2cd" height="34" alt="Generative AI" title="Generative AI" />
+        <img src="https://img.shields.io/badge/%20-0b1326?style=for-the-badge&amp;logo=percy&amp;logoColor=ddb7ff" height="34" alt="Percy visual regression" title="Percy Visual Regression" />
+        <img src="https://img.shields.io/badge/%20-0b1326?style=for-the-badge&amp;logo=w3c&amp;logoColor=c0c1ff" height="34" alt="WCAG accessibility" title="WCAG 2.4.3" />
+      </td>
+    </tr>
+    <tr>
+      <td><strong>⌨️ Developer Tools</strong></td>
+      <td>
+        <img src="https://skillicons.dev/icons?i=git,linux,apple,windows,bash,vim,idea,vscode&amp;theme=dark" height="38" alt="Git, Linux, macOS, Windows, Bash, Vim, IntelliJ IDEA, and Visual Studio Code" title="Git · Linux · macOS · Windows · Bash · Vim · IntelliJ IDEA · Visual Studio Code" />
+        <img src="https://img.shields.io/badge/%20-0b1326?style=for-the-badge&amp;logo=openai&amp;logoColor=44e2cd" height="34" alt="Codex" title="Codex" />
+        <img src="https://img.shields.io/badge/%20-0b1326?style=for-the-badge&amp;logo=anthropic&amp;logoColor=ddb7ff" height="34" alt="Claude Code" title="Claude Code" />
+        <img src="https://img.shields.io/badge/%20-0b1326?style=for-the-badge&amp;logo=google&amp;logoColor=c0c1ff" height="34" alt="Google Antigravity" title="Google Antigravity" />
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
@@ -66,17 +113,17 @@ Developer tooling custom-built to accelerate AEM development workflows:
 
 ---
 
-### 📊 Github Engine Overview
+### 📊 GitHub Engineering Overview
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=Akio333&show_icons=true&bg_color=0b1326&title_color=ddb7ff&text_color=dae2fd&icon_color=44e2cd&border_color=31394d&hide_border=false" alt="Akio's Stats" height="150" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akio333&layout=compact&bg_color=0b1326&title_color=ddb7ff&text_color=dae2fd&icon_color=44e2cd&border_color=31394d&hide_border=false" alt="Akio's Top Languages" height="150" />
-      </td>
-    </tr>
-  </table>
+  <a href="https://github.com/Akio333">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Akio333&theme=github_dark" alt="Akio333's GitHub contribution overview" width="800" />
+  </a>
+  <br />
+  <a href="https://github.com/Akio333">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Akio333&theme=github_dark" alt="Akio333's repositories by language" height="160" />
+  </a>
+  <a href="https://github.com/Akio333">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Akio333&theme=github_dark" alt="Akio333's commits by language" height="160" />
+  </a>
 </div>
