@@ -43,7 +43,7 @@ A focused technology stack for building and operating dependable AEM experiences
     <tr>
       <td><strong>🧩 AEM &amp; CMS</strong></td>
       <td>
-        <img src="https://img.shields.io/badge/%20-0b1326?style=for-the-badge&amp;logo=adobe&amp;logoColor=ddb7ff" height="34" alt="AEM Cloud Service and HTL" title="AEM Cloud Service &amp; HTL" />
+        <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/adobe-experience-manager-aem-icon.svg" height="38" alt="AEM Cloud Service and HTL" title="AEM Cloud Service &amp; HTL" />
         <img src="https://img.shields.io/badge/%20-0b1326?style=for-the-badge&amp;logo=eclipseide&amp;logoColor=44e2cd" height="34" alt="OSGi" title="OSGi" />
         <img src="https://img.shields.io/badge/%20-0b1326?style=for-the-badge&amp;logo=apache&amp;logoColor=c0c1ff" height="34" alt="Sling Models" title="Sling Models" />
         <img src="https://img.shields.io/badge/%20-0b1326?style=for-the-badge&amp;logo=strapi&amp;logoColor=8e75ff" height="34" alt="Strapi" title="Strapi" />
@@ -69,18 +69,18 @@ A focused technology stack for building and operating dependable AEM experiences
       <td>
         <img src="https://skillicons.dev/icons?i=aws&amp;theme=dark" height="38" alt="Amazon Web Services and CloudFront" title="AWS &amp; CloudFront" />
         <img src="https://img.shields.io/badge/%20-0b1326?style=for-the-badge&amp;logo=vercel&amp;logoColor=ffffff" height="34" alt="Vercel" title="Vercel" />
-        <img src="https://img.shields.io/badge/%20-0b1326?style=for-the-badge&amp;logo=openai&amp;logoColor=44e2cd" height="34" alt="Generative AI" title="Generative AI" />
+        <img src="./assets/icons/genai.svg" height="38" alt="Generative AI" title="Generative AI" />
         <img src="https://img.shields.io/badge/%20-0b1326?style=for-the-badge&amp;logo=percy&amp;logoColor=ddb7ff" height="34" alt="Percy visual regression" title="Percy Visual Regression" />
-        <img src="https://img.shields.io/badge/%20-0b1326?style=for-the-badge&amp;logo=w3c&amp;logoColor=c0c1ff" height="34" alt="WCAG accessibility" title="WCAG 2.4.3" />
+        <img src="./assets/icons/accessibility.svg" height="38" alt="WCAG accessibility" title="WCAG 2.4.3" />
       </td>
     </tr>
     <tr>
       <td><strong>⌨️ Developer Tools</strong></td>
       <td>
         <img src="https://skillicons.dev/icons?i=git,linux,apple,windows,bash,vim,idea,vscode&amp;theme=dark" height="38" alt="Git, Linux, macOS, Windows, Bash, Vim, IntelliJ IDEA, and Visual Studio Code" title="Git · Linux · macOS · Windows · Bash · Vim · IntelliJ IDEA · Visual Studio Code" />
-        <img src="https://img.shields.io/badge/%20-0b1326?style=for-the-badge&amp;logo=openai&amp;logoColor=44e2cd" height="34" alt="Codex" title="Codex" />
-        <img src="https://img.shields.io/badge/%20-0b1326?style=for-the-badge&amp;logo=anthropic&amp;logoColor=ddb7ff" height="34" alt="Claude Code" title="Claude Code" />
-        <img src="https://img.shields.io/badge/%20-0b1326?style=for-the-badge&amp;logo=google&amp;logoColor=c0c1ff" height="34" alt="Google Antigravity" title="Google Antigravity" />
+        <img src="./assets/icons/codex.svg" height="38" alt="Codex" title="Codex" />
+        <img src="./assets/icons/claude-code.svg" height="38" alt="Claude Code" title="Claude Code" />
+        <img src="./assets/icons/antigravity.svg" height="38" alt="Google Antigravity" title="Google Antigravity" />
       </td>
     </tr>
   </tbody>
